@@ -13,6 +13,7 @@ from scipy.io import savemat
 # data_structure: N*360*120  (N sample number)*(3 second *
 # 120Hz sampling rate)*(30 channels *4 spectral bands)
 
+
 path = 'data.mat'
 matfile = h5py.File(path)
 print(matfile.keys())
