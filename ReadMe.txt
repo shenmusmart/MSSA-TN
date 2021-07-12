@@ -15,5 +15,5 @@ Then run TN.py to see the full result of MSSA-TN
 Running classification results:
 No adaptation: 0.5
 MSSA: 0.57
-MSSA-TN: 0.6351
+MSSA-TN: 0.6351 (results may vary for each training)
 
